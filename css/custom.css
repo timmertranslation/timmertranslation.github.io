@@ -94,3 +94,9 @@
   }
 
   .ignore-css{all:unset !important}
+
+  .footer{
+    background-color: #202136;
+    padding: 25px 0;
+    text-align: center;
+  }
