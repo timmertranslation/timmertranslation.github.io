@@ -181,7 +181,6 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-
 }
 
 header.masthead .intro-text {
@@ -675,10 +674,10 @@ ul.social-buttons {
 
 ul.social-buttons li a {
   font-size: 20px;
-  line-height: 100px;
+  line-height: 50px;
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   color: white;
